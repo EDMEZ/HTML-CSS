@@ -1,0 +1,14 @@
+toda pseudo classe começa com apenas um dois pontos ex: 
+
+a:active , :active é uma pseudo classe,
+
+ja quando é :: dois pontos duas vezes é um pseudo elemento
+
+ex: 
+a::after = apos todo link{ condição especifica.}
+
+
+: = pseudo classe
+:: = pseudo elemento
+> = elemento filho ex: div > p (todo p que estiver dentro de uma div irá receber a condição).
+ 
