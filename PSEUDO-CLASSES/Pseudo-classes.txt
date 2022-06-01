@@ -1,0 +1,6 @@
+: signifiva uma pseudo classe
+ 
+são relacionados ao estado de um elemento assim como o :hover
+o hover é quando você passa o mouse em cima, ocorrerá uma alteração de acordo com oque esta escrito no css 
+
+ex: div:hover{ background-color:yellow } sempre que você passar o mouse por cima da div o fundo ficará amarelo.
